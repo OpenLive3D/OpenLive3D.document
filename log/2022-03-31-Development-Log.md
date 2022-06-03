@@ -38,5 +38,8 @@
    - Tween for head movement
  - 2022-06-02: Alpha-0.2.2
    - Head movement range udpate
- - 2022-06-03: Document repo separation
- 
+ - 2022-06-03: Alpha-0.2.3
+   - Document repo separation
+   - Default Color Change
+   - Logo Gray-Scale
+   - Config Save to Cookie
