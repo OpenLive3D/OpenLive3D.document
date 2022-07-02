@@ -38,3 +38,8 @@ Avatar and Landmark Info Link
 
 Plan for Config and State
 - [x] Design the process to move from MVP to alpha
+
+
+----
+
+[BACK TO DOCUMENT FRONTPAGE](/)

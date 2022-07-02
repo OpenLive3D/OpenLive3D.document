@@ -1,21 +1,41 @@
-# OpenLive3D
+# OpenLive3D.Document
 
-The open source project for Live3D Virtual Avatar.
+The open source document the Live3D Virtual Avatar, OpenLive3D.
 
 <img src="asset/doc/screenshot.png" width="100%"/>
-
-
-# `NOTE: THIS IS DOCUMENT REPOSITORY`
 
 
 ## TRY NOW!
 
  - Live Website: https://openlive3d.com/
  - Organization: https://github.com/OpenLive3D
- - Document:
-   - [Quick Start](https://github.com/OpenLive3D/OpenLive3D.document/tree/document/doc/quick-start.md)
-   - [Document List](https://github.com/OpenLive3D/OpenLive3D.document/tree/document/doc)
-   - [Planning Log](https://github.com/OpenLive3D/OpenLive3D.document/tree/document/log)
+ - [Quick Start](doc/quick-start.md)
+
+
+## Configuration
+
+ - [Config Definition](doc/config-def.md)
+ - [Config Setting](doc/config-set.md)
+
+
+## Videos
+
+ - [How to make a VTuber Software?](https://youtu.be/U5U6KYeYTEs)
+ - [How to use OpenLive3D?](https://youtu.be/whnls8J8vjA)
+ - [How to change VRM 3D Model in OpenLive3D?](https://youtu.be/WW1-Tgj6V4s)
+ - [How to change background color in OpenLive3D?](https://youtu.be/cepnuE60s-s)
+
+
+## Design Log (History)
+
+ - [Tech Architecture](doc/tech-architecture.md)
+ - [MVP Plan](log/2021-08-28-MVP-Development-Process.md)
+ - [Word Definition](log/2021-09-08-Word-Definition.md)
+ - [Dependencies](log/2021-09-09-Dependencies.md)
+ - Alpha Release Plan
+   - [Dev Progress](log/2021-09-15-Alpha-Development-Process.md)
+   - [Invitation](log/2022-03-12-Alpha-Test-Invitation.md)
+ - [Dev Log (Deprecated)](log/2022-03-31-Development-Log.md)
 
 
 ## Project Features
@@ -36,10 +56,6 @@ The project aims to connect the half-body movement with facial landmarks to the 
  - Modularized and flexible structure
 
 
-## Project Status
+----
 
-Alpha-0.2.3:
- - Default Color Change
- - Logo Gray-Scale
- - Document Repository Separation
- - Config Save to Cookie
+[BACK TO DOCUMENT FRONTPAGE](/)

@@ -42,3 +42,8 @@ Config manager will handle the config files that save different conditions for d
 ## Live3D GUI
 
 Live3D GUI provides the graphical interface for human to operate and do modification.
+
+
+----
+
+[BACK TO DOCUMENT FRONTPAGE](/)

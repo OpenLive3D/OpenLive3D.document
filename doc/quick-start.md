@@ -22,3 +22,8 @@
 6. Change the setting if you would like
 
 ![Setting](../asset/doc/setting.png)
+
+
+----
+
+[BACK TO DOCUMENT FRONTPAGE](/)

@@ -47,4 +47,9 @@ To be able to work for different users out of the box:
  - [x] Layout for Eye / Mouth Open Threshold
  - [x] Layout for Head / Iris Rotate Ratio
  - [x] Iris Target
- - [ ] Mood Selection
+ - [x] Mood Selection
+
+
+----
+
+[BACK TO DOCUMENT FRONTPAGE](/)

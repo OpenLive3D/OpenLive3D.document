@@ -28,3 +28,8 @@ To use your own avatar, create the VRM file using VRoid Studio[1] and upload the
  - [VRoid](https://vroid.com/en/studio)
 
 [1] VRoid Studio: an excellent software from the pixiv team that can create 3D humanoid with basic control
+
+
+----
+
+[BACK TO DOCUMENT FRONTPAGE](/)

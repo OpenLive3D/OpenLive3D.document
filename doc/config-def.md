@@ -70,3 +70,7 @@ Motion become more stable with larger value, but small guesture become harder to
 
 Flip the camera horizontally. Accept "true|false" value
 
+
+----
+
+[BACK TO DOCUMENT FRONTPAGE](/)

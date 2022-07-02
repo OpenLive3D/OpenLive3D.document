@@ -1,4 +1,6 @@
-# Development Logs
+# Development Logs (DEPRECATED)
+
+## `LATEST DEV LOG IN THE MAIN REPOSITORY`
 
  - 2021-08-26: Project creation
  - 2021-08-29: [Create MVP Development Plan](log/2021-08-28-MVP-Development-Process.md)
@@ -43,3 +45,10 @@
    - Default Color Change
    - Logo Gray-Scale
    - Config Save to Cookie
+ - 2022-06-10: Alpha-0.2.4
+   - Config Load Cookie Debug
+
+
+----
+
+[BACK TO DOCUMENT FRONTPAGE](/)
