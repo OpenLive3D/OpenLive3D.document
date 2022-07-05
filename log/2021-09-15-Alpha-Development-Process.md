@@ -52,4 +52,4 @@ To be able to work for different users out of the box:
 
 ----
 
-[BACK TO DOCUMENT FRONTPAGE](/)
+[BACK TO DOCUMENT FRONTPAGE](/README.md)

@@ -23,4 +23,4 @@ Thse `close threshold` are recommended to be set a bit higher than your fully cl
 
 ----
 
-[BACK TO DOCUMENT FRONTPAGE](/)
+[BACK TO DOCUMENT FRONTPAGE](/README.md)

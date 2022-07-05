@@ -25,4 +25,4 @@ The recommended value is around `0.1` so that the mouth will not glitch while st
 
 ----
 
-[BACK TO DOCUMENT FRONTPAGE](/)
+[BACK TO DOCUMENT FRONTPAGE](/README.md)

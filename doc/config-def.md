@@ -73,4 +73,4 @@ Flip the camera horizontally. Accept "true|false" value
 
 ----
 
-[BACK TO DOCUMENT FRONTPAGE](/)
+[BACK TO DOCUMENT FRONTPAGE](/README.md)

@@ -46,4 +46,4 @@ Live3D GUI provides the graphical interface for human to operate and do modifica
 
 ----
 
-[BACK TO DOCUMENT FRONTPAGE](/)
+[BACK TO DOCUMENT FRONTPAGE](/README.md)

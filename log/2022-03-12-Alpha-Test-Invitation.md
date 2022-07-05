@@ -32,4 +32,4 @@ To use your own avatar, create the VRM file using VRoid Studio[1] and upload the
 
 ----
 
-[BACK TO DOCUMENT FRONTPAGE](/)
+[BACK TO DOCUMENT FRONTPAGE](/README.md)
