@@ -10,6 +10,7 @@ The open source document the Live3D Virtual Avatar, OpenLive3D.
  - Live Website: https://openlive3d.com/
  - Organization: https://github.com/OpenLive3D
  - [Quick Start](doc/quick-start.md)
+ - [Use Your Own VRM](doc/switch-vrm.md)
 
 
 ## Configuration
@@ -20,10 +21,10 @@ The open source document the Live3D Virtual Avatar, OpenLive3D.
 
 ## Videos
 
- - [How to make a VTuber Software?](https://youtu.be/U5U6KYeYTEs)
- - [How to use OpenLive3D?](https://youtu.be/whnls8J8vjA)
- - [How to change VRM 3D Model in OpenLive3D?](https://youtu.be/WW1-Tgj6V4s)
- - [How to change background color in OpenLive3D?](https://youtu.be/cepnuE60s-s)
+ - [How to make a VTuber Software?](https://youtu.be/U5U6KYeYTEs&list=PLcTMGkIzn5uxwFXlm5VlfUwr1jlWWqtZI)
+ - [How to use OpenLive3D?](https://youtu.be/whnls8J8vjA&list=PLcTMGkIzn5uxwFXlm5VlfUwr1jlWWqtZI)
+ - [How to change VRM 3D Model in OpenLive3D?](https://youtu.be/WW1-Tgj6V4s&list=PLcTMGkIzn5uxwFXlm5VlfUwr1jlWWqtZI)
+ - [How to change background color in OpenLive3D?](https://youtu.be/cepnuE60s-s&list=PLcTMGkIzn5uxwFXlm5VlfUwr1jlWWqtZI)
 
 
 ## Design Log (History)
