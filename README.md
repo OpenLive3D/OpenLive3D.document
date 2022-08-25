@@ -8,7 +8,8 @@ The open source document the Live3D Virtual Avatar, OpenLive3D.
 ## TRY NOW!
 
  - Live Website: https://openlive3d.com/
- - Organization: https://github.com/OpenLive3D
+ - GitHub Organization: https://github.com/OpenLive3D
+ - Discord: [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/pGPY5Jfhvz)
  - [Quick Start](doc/quick-start.md)
  - [Use Your Own VRM](doc/switch-vrm.md)
 
