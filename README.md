@@ -28,6 +28,13 @@ The open source document the Live3D Virtual Avatar, OpenLive3D.
  - [How to change background color in OpenLive3D?](https://youtu.be/cepnuE60s-s&list=PLcTMGkIzn5uxwFXlm5VlfUwr1jlWWqtZI)
 
 
+## Frequent Asked Questions
+
+ - [Why is my Website Laggy?](doc/faq-laggy.md)
+ - [How to Start Streaming?](doc/faq-stream.md)
+ - [Why OpenLive3D Stop when I play games?](doc/faq-fullscreen.md)
+
+
 ## Design Log (History)
 
  - [Tech Architecture](doc/tech-architecture.md)
@@ -37,7 +44,7 @@ The open source document the Live3D Virtual Avatar, OpenLive3D.
  - Alpha Release Plan
    - [Dev Progress](log/2021-09-15-Alpha-Development-Process.md)
    - [Invitation](log/2022-03-12-Alpha-Test-Invitation.md)
- - [Dev Log (Deprecated)](log/2022-03-31-Development-Log.md)
+ - [Dev Log (Late Update)](log/2022-03-31-Development-Log.md)
 
 
 ## Project Features
